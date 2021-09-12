@@ -3,6 +3,6 @@ soundfile
 numpy 
 sklearn 
 pyaudio 
-Flask
+fastapi
 werkzeug
 numba==0.48
